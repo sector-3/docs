@@ -16,3 +16,4 @@ sidebar_position: 4
 - Mirror: https://mirror.xyz/sector3dao.eth
 - Tally: https://www.tally.xyz/gov/sector-3-optimism
 - Token: [`0xe5ec44dd7d49e6edf31878e55dec12eb79bd10ae`](https://optimistic.etherscan.io/token/0xe5ec44dd7d49e6edf31878e55dec12eb79bd10ae)
+- Guild.xyz: https://guild.xyz/sector3
